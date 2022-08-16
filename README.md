@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @De70x
+- 👀 I’m interested in Maths, Computer Sciences, Sports and Musics
+- 🌱 I’m currently learning React native (few months), React JS (1 year) and I'm more experienced in Java (6 years)
